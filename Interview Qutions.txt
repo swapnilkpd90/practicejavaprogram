@@ -259,3 +259,26 @@ int target2 = 2;
 int target3 = 7;
 
 Output: 2, 1, 4
+
+---------------------------------------------------------------------------
+𝗥𝗼𝘂𝗻𝗱 𝟭 – 𝗖𝗼𝗿𝗲 𝗝𝗮𝘃𝗮 & 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻
+1- What OOPs concepts have you used in your automation framework?
+2- Which Collections have you used in your framework? (List, ArrayList, HashMap, Set)
+3- Explain this and super keyword in Java.
+4- Write a Java program to find and print broken links and non-broken links.
+
+𝗥𝗼𝘂𝗻𝗱 𝟮 – 𝗦𝗲𝗹𝗲𝗻𝗶𝘂𝗺, 𝗧𝗲𝘀𝘁𝗡𝗚 & 𝗖𝗜/𝗖𝗗
+1- If out of 100 test cases, 20 are failed, how will you rerun only the failed test cases?
+2- What are the different ways to use sendKeys() to enter text into a text field?
+3- If sendKeys() is not entering text even though locator and code are correct, what could be the reasons?
+4- Same scenario with click() — element is not clickable though locator & code are correct. How will you handle it?
+5- What is CI/CD integration? How do you run automation test cases through a CI/CD pipeline?
+6- Explain your Automation Framework (structure, design, tools).
+
+𝗖𝗹𝗶𝗲𝗻𝘁 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄
+1- Introduction
+2- How have you used AI in your daily automation work?
+3- How do you execute automation test cases?
+4- Which CI/CD tools have you used and how did you configure your test execution?
+5- Which reporting tool do you use and why?
+6- How do you handle flaky test cases? (Including AI in Testing, GenAI, Prompt Engineering Training)
